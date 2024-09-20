@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "C:\Users\Lenovo\Pictures\微信图片_20240910162314.jpg"
+  avatar           : ""
   name             : "Doreemioo"
   pronouns         : "he/him"  
   bio              : "College Student | Code subsciber | Photography Hobbyist"
