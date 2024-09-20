@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh-CN"
-title                    : "Doreemioo / Site Title"
+title                    : "Doreemioo Home Page"
 title_separator          : "-"
 name                     : &name "Doreemioo"
 description              : &description "College student in Tsinghua University | Code subscriber"
@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Doreemioo"
-  pronouns         : "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/him"  
+  bio              : "College Student | Code subsciber | Photography Hobbyist"
   location         : "Beijing,China"
   employer         : "Tsinghua University"
   uri              : # URL
